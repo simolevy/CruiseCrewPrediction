@@ -8,7 +8,7 @@ Feel free to look through my portfolio as a showcase of my skills and continued 
 ## Projects
 ## 1. A prediction model for the number of crew members on a cruise ship.
 
-**Code:** [(link here)](https://github.com/simolevy/DataAnalysisPortfolio/tree/22ac45f104315b8a7fedb6416e716abc523ff32c/Notebooks/CruiseCountPrediction)
+**Code:** [(Crew nember prediction model)](https://github.com/simolevy/DataAnalysisPortfolio/tree/22ac45f104315b8a7fedb6416e716abc523ff32c/Notebooks/CruiseCountPrediction)
 
 
 **Description:** This project uses online data about various cruise liners to predict the number of crew members that should
