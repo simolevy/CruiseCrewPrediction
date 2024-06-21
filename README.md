@@ -23,3 +23,10 @@ to showcase the accuracy of the model, and a cross validation phase to test the 
 
 **Description:** This project uses data about various advertisements for farm medications to predict the probability that certain ads will be useful.
 It predicts the relevance of the advertisements through a logistic regression model.
+
+## 3. Power BI portfolio
+
+Click below to view my completed PowerBI dashboards and reports. These models utilize relevant 
+datasets to display and visualize findings and business analyses in different business sectors.
+
+[Power BI Portfolio](https://github.com/simolevy/PowerBI-Portfolio)
